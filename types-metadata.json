@@ -1,0 +1,22 @@
+{
+    "authors": "Rafal Zabrowarny <https://github.com/zabrowarnyrafal>",
+    "libraryDependencies": [
+        "angular",
+        "angular-uuid"
+    ],
+    "libraryMajorVersion": 1,
+    "libraryMinorVersion": 0,
+    "typeScriptVersion": "2.0",
+    "libraryName": "Angular UUID",
+    "typingsPackageName": "angular-uuid",
+    "projectName": "https://github.com/munkychop/angular-uuid",
+    "sourceBranch": "master",
+    "globals": [],
+    "declaredModules": [
+        "angular"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false
+}
