@@ -1,0 +1,27 @@
+{
+  "name": "angular-uuid-typings",
+  "version": "1.0.0",
+  "description": "An angular-uuid (https://github.com/munkychop/angular-uuid) typescript declaration file.",
+  "main": "index.d.ts"
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zabrowarnyrafal/typings-angular-uuid.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-uuid",
+    "typescript",
+    "typings",
+    "uuidv1",
+    "uuidv4"
+  ],
+  "author": "zabrowarnyrafal <zabrowarnyrafal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zabrowarnyrafal/typings-angular-uuid/issues"
+  },
+  "homepage": "https://github.com/zabrowarnyrafal/typings-angular-uuid"
+}
