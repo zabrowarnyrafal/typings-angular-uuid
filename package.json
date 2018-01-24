@@ -1,8 +1,8 @@
 {
   "name": "angular-uuid-typings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular-uuid (https://github.com/munkychop/angular-uuid) typescript declaration file.",
-  "main": "index.d.ts"
+  "main": "index.d.ts",
   "files": [
     "index.d.ts"
   ],
